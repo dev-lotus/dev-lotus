@@ -15,5 +15,5 @@
 <br>
 
 ### 📈 How about some stats
-<div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-lotus&show_icons=true" alt="dev-lotus" /></div>
+<div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadpasta&show_icons=true" alt="dev-lotus" /></div>
 <br/>
