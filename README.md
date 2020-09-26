@@ -7,7 +7,7 @@
     :sparkles: Favorite Tech: HTML, CSS, Bootstrap, JavaScript, Java ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :Email:	lotushotmail111@gmail.com <br>
-    :art: Portfolio: https://dev-lotus.github.io <br>
+    :art: Portfolio: http://lotusbiswas.rf.gd/ <br>
     :briefcase: LinkedIn: https://linkedin.com/in/lotusbiswas <br>
   </samp>
 </p>
