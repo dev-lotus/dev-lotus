@@ -8,7 +8,7 @@
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :Email:	lotushotmail111@gmail.com <br>
     :art: Portfolio: http://lotusbiswas.rf.gd/ <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/lotusbiswas <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/lotus-biswas-39021a1ab/ <br>
   </samp>
 </p>
 
