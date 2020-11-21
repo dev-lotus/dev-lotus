@@ -4,7 +4,7 @@
   <samp>
     Hi, I'm Lotus! 👋 <br>
     🔥 20 Year's Old FRONT END WEB DEVELOPER  grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: HTML, CSS, Bootstrap, JavaScript, Java <br>
+    :sparkles: Favorite Tech: HTML, CSS, Bootstrap, JavaScript, C++ <br>
     :notebook: I’m currently learning DS and Algo 😭  <br>
     :Email:	lotushotmail111@gmail.com <br>
     :art: Portfolio: http://lotusbiswas.rf.gd/ <br>
