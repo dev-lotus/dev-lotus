@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     Hi, I'm Lotus! 👋 <br>
-    🔥 20 Year's Old FRONT END WEB DEVELOPER  grinding hard to make something cool  <br>
+    🔥 21 Year's Old FRONT END WEB DEVELOPER  grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: HTML, CSS, Bootstrap 5, JavaScript, C++ <br>
     :notebook: I’m currently learning DS and Algo, MERN Stack 😭  <br>
     :Email:	lotushotmail111@gmail.com <br>
